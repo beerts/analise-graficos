@@ -1,0 +1,4 @@
+# analise-gr-ficos
+Análise de gráficos Python
+
+PRECISA SER ABERTO NO JUPYTER PARA FUNCIONAR O PLOTLY.EXPRESS E MOSTRAR OS GRÁFICOS
